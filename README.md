@@ -70,10 +70,6 @@
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=dccc2025&show_icons=true&count_private=true&layout=compact&theme=transparent)
-
----
-
 ### 🌍 Connect with Me
 - Email: [daicheng@westlake.edu.cn](mailto:daicheng@westlake.edu.cn)
 - LinkedIn: [Cheng Dai](https://www.linkedin.com/in/cheng-dai-443432403/) -- Welcome to connect with me!
@@ -86,7 +82,7 @@
 
 ### ✨ Just for Fun
 
-> I want everyone in the future to work on HADAR! ✊🥵🪛
+> I want everyone in the future to work on HADAR! ✊😎🪛
 
 ---
 
