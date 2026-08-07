@@ -28,6 +28,10 @@
         <em>Jiashuo Chen<sup>†</sup>, <b>Cheng Dai</b><sup>†</sup>, Yanan Hu, and Fanglin Bao</em>
         <br>
         <sub><sup>†</sup> Equal contribution; authors are listed alphabetically.</sub>
+        <br><br>
+        <a href="https://arxiv.org/abs/2608.02192"><img src="https://img.shields.io/badge/Preprint-arXiv-b31b1b.svg?style=flat-square"></a>
+        <a href="https://github.com/dccc2025/T2exture"><img src="https://img.shields.io/github/stars/dccc2025/T2exture?style=flat-square&logo=github"></a>
+        <a href="https://huggingface.co/datasets/chenjiashuo/T2exture_datasets"><img src="https://img.shields.io/badge/Dataset-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"></a>
       </p>
       <p>
         A sparsely perturbed <b>thermal-to-texture imaging framework</b> that reconstructs temporally dense thermal-texture sequences from passive LWIR frames and a few actively perturbed keyframes.
@@ -100,7 +104,8 @@
 ---
 
 ### 🌍 Connect with Me
-- Email: [daicheng@westlake.edu.cn](mailto:daicheng@westlake.edu.cn)
+- Email: [daichengwhu2025@gmail.com](mailto:daichengwhu2025@gmail.com)
+- WeChat: daicheng1291317948
 - LinkedIn: [Cheng Dai](https://www.linkedin.com/in/cheng-dai-443432403/) -- Welcome to connect with me!
 - Personal Website: [dccc2025.github.io](https://dccc2025.github.io/)
 - Google Scholar: [Cheng Dai](https://scholar.google.com/citations?hl=zh-CN&user=vJrsT54AAAAJ)
