@@ -9,8 +9,8 @@
 </h3>
 
 ### 🧬 About Me
-- 🎓 I am working on **thermal infrared hyperspectral imaging**, **HADAR-based physical vision**, and **efficient AI systems**.
-- 🔬 My current research focuses on **temperature-emissivity-texture decomposition**, physically interpretable thermal perception, and lightweight deployment for practical sensing systems.
+- 🎓 I’m a researcher specializing in **physics-based imaging**, **multimodal models**, and **efficient large language models**.
+- 🔬 My research develops learning systems that unite physical sensing, multimodal understanding, and efficient language-model inference for reliable perception, reasoning, and interaction in real-world environments.
 - 🎯 I am actively seeking **27 Fall PhD opportunities**!
 - 🌐 Visit my **[Personal Website](https://dccc2025.github.io/)** for academic information, or check the **[website repository](https://github.com/dccc2025/dccc2025.github.io)** for the source.
 
