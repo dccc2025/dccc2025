@@ -20,12 +20,39 @@
 <table>
   <tr>
     <td width="30%">
+      <img src="figures/t2exture_main_figure_web.jpg" alt="T squared exture" width="100%" />
+    </td>
+    <td width="70%">
+      <h4>🧩 <a href="https://arxiv.org/abs/2608.02192">T<sup>2</sup>exture: Sparsely Perturbed Thermal-to-Texture Imaging</a></h4>
+      <p>
+        <em>Jiashuo Chen<sup>†</sup>, <b>Cheng Dai</b><sup>†</sup>, Yanan Hu, and Fanglin Bao</em>
+        <br>
+        <sub><sup>†</sup> Equal contribution; authors are listed alphabetically.</sub>
+      </p>
+      <p>
+        A sparsely perturbed <b>thermal-to-texture imaging framework</b> that reconstructs temporally dense thermal-texture sequences from passive LWIR frames and a few actively perturbed keyframes.
+      </p>
+      <p>
+        <a href="https://arxiv.org/abs/2608.02192">[Paper]</a> &nbsp;
+        <a href="https://github.com/dccc2025/T2exture">[Code]</a> &nbsp;
+        <a href="https://huggingface.co/datasets/chenjiashuo/T2exture_datasets">[Dataset]</a> &nbsp;
+        <a href="https://huggingface.co/chenjiashuo/T2exture_model">[Model Weights]</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="30%">
       <img src="figures/tex1500_architecture_web.jpg" alt="TeX-1500" width="100%" />
     </td>
     <td width="70%">
       <h4>🌡️ <a href="https://github.com/dccc2025/TeX-1500">TeX-1500: A Paired Real-World LWIR Hyperspectral Dataset and Benchmark</a></h4>
       <p>
-        <em><b>Cheng Dai</b>, Jiale Lin, Hongyi Xu, Bingxuan Song, Ziyang Xie, and Fanglin Bao</em>
+        <em><b>Cheng Dai</b><sup>*</sup>, Jiale Lin<sup>*</sup>, Hongyi Xu, Bingxuan Song, Ziyang Xie, and Fanglin Bao</em>
+        <br>
+        <sub><sup>*</sup> Equal contribution.</sub>
         <br>
         <a href="https://arxiv.org/abs/2606.03806"><img src="https://img.shields.io/badge/Preprint-arXiv-b31b1b.svg?style=flat-square"></a>
         <a href="https://github.com/dccc2025/TeX-1500"><img src="https://img.shields.io/github/stars/dccc2025/TeX-1500?style=flat-square&logo=github"></a>
@@ -52,7 +79,9 @@
     <td width="70%">
       <h4>🛠️ <a href="https://github.com/jialelin2007/HAIR">HAIR: HADAR-Based Thermal Infrared Hyperspectral Image Restoration</a></h4>
       <p>
-        <em><b>Cheng Dai</b>, Jiale Lin, Bingxuan Song, Yifei Chen, Jiashuo Chen, Xin Yuan, and Fanglin Bao</em>
+        <em><b>Cheng Dai</b><sup>*</sup>, Jiale Lin<sup>*</sup>, Bingxuan Song, Yifei Chen, Jiashuo Chen, Xin Yuan, and Fanglin Bao</em>
+        <br>
+        <sub><sup>*</sup> Equal contribution.</sub>
         <br>
         <a href="https://arxiv.org/abs/2605.13664"><img src="https://img.shields.io/badge/Preprint-arXiv-b31b1b.svg?style=flat-square"></a>
         <a href="https://github.com/jialelin2007/HAIR"><img src="https://img.shields.io/github/stars/jialelin2007/HAIR?style=flat-square&logo=github"></a>
