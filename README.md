@@ -2,20 +2,43 @@
   Hi 👋, I'm Cheng Dai
 </h1>
 
-[![Views](https://komarev.com/ghpvc/?username=dccc2025&label=Views&color=blueviolet&style=flat)](https://github.com/dccc2025) [![Personal Website](https://img.shields.io/badge/Personal%20Website-Cheng%20Dai-blue?logo=google-chrome&logoColor=white)](https://github.com/dccc2025/dccc2025.github.io) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Cheng%20Dai-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=vJrsT54AAAAJ)
+[![Views](https://komarev.com/ghpvc/?username=dccc2025&label=Views&color=blueviolet&style=flat&base=13)](https://github.com/dccc2025) [![Personal Website](https://img.shields.io/badge/Personal%20Website-dccc2025.github.io-blue?logo=google-chrome&logoColor=white)](https://dccc2025.github.io/) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Cheng%20Dai-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=vJrsT54AAAAJ)
 
 <h3 align="center">
-  <i>"Beyond appearance, toward physical vision."</i>
+  <i>"From physical vision down the stack, toward computing, inference, and world models."</i>
 </h3>
 
 ### 🧬 About Me
-- 🎓 I’m a researcher specializing in **physics-based imaging**, **multimodal models**, and **efficient large language models**.
-- 🔬 My research develops learning systems that unite physical sensing, multimodal understanding, and efficient language-model inference for reliable perception, reasoning, and interaction in real-world environments.
-- 🎯 I am actively seeking **27 Fall PhD opportunities**!
-- 🌐 Visit my **[Personal Website](https://dccc2025.github.io/)** for academic information, or check the **[website repository](https://github.com/dccc2025/dccc2025.github.io)** for the source.
+- 🎓 My former research focused on **computational imaging**, **agentic benchmarks**, and **embodied intelligence**.
+- 🔬 My research is moving this work down the stack, toward **high-performance computing**, **large-language-model inference**, and **world models**, to support reliable **perception**, **reasoning**, and **interaction** in real-world environments.
+- 🧪 I also have experience with **[HADAR-based physical vision](https://www.nature.com/articles/s41586-023-06174-6)**; **audio signal processing**, including text-to-speech, pattern recognition, and downstream task fine-tuning; and **embodied simulation**, including asset development, teleoperation, and plugin development.
+- 🎯 I am actively seeking **27 Fall PhD opportunities**.
+- 🌐 **[Personal Website](https://dccc2025.github.io/)** · **[CV](https://dccc2025.github.io/files/ChengDai_cv.pdf)** · **[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=vJrsT54AAAAJ)**
 
 
 ### 📝 Research Highlights
+
+<table>
+  <tr>
+    <td width="30%">
+      <img src="figures/frontierphysics_overview_web.jpg" alt="FrontierPhysics overview" width="100%" />
+    </td>
+    <td width="70%">
+      <h4>🧪 <a href="https://openreview.net/forum?id=Q4Iyl2xyt4">FrontierPhysics: Evaluating Agents for End-to-End Physics Research</a></h4>
+      <p>
+        <em>Bingran You, Wenjun Ke, Ria Rosenauer, Bo Liu, Wenbo Chen, Yue Ma, Min Chen, Jiechao Feng, Shuqi Xu, Bo Chen, Xiangkai Sun, Jiarui Liu, Alexander von Recum, Yuchen Zhu, Jinen Guo, Zeyu Zhou, Haoyu Li, Heguang Lin, Lijie Ding, Yadong Zeng, Kangqi Zhang, Xinge Liu, Hanwen Liu, Zhenghong Li, Xu Huang, Yizhou Zhao, Kyoung Whan Choe, Jicheng Wang, Binxu Li, Qian Yu, Chan Li, **Cheng Dai**, Di Wang, Haoyu Zhang, Jiankai Sun, Kaituo Feng, Ke Sun, Mian Qin, Ruihong Yin, Yiqun Luo, Weiwei Wu, Shihong Pan, Tsung Yeh Hsieh, Xiao Huang, Yan Zhang, Felix Schwarzfischer, Zhuohan Li, Sihan Li, Zirui Ren, Zengji Tu, Vincenzo Galia, Vaisakhi Mishra, Jiashu He, Hongyang Wang, Carrie Chen, Zhiheng Yang, Yifan Gu, Shuyi Wang, Zihao Zuo, Steven Dillmann, Xinyang Han, Hanchung Lee, Molei Tao, Yue Zhao, Yiyou Sun, Shilong Liu, Yuchen Wu, Xuandong Zhao, Xiangyi Li, Gerbrand Ceder, Hartmut Haeffner</em>
+        <br><br>
+        <a href="https://openreview.net/forum?id=Q4Iyl2xyt4"><img src="https://img.shields.io/badge/ICLR%202027-under%20review-orange.svg?style=flat-square"></a>
+      </p>
+      <p>
+        FrontierPhysics evaluates whether AI agents can carry out end-to-end physics research across 56 tasks in theoretical, computational, and experimental physics. Each agent receives a principal-investigator-style prompt and must produce a manuscript with structured outputs, graded by deterministic verifiers and expert rubrics. The best of eleven frontier agents passes only 22% of rollouts.
+      </p>
+      <p>
+        <a href="https://openreview.net/forum?id=Q4Iyl2xyt4">[Paper]</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
