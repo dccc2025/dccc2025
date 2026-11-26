@@ -18,8 +18,8 @@
 <table width="100%">
 <tr>
 <td>
-<b><a href="https://arxiv.org/abs/2605.13664">HAIR: HADAR-Based Thermal Infrared Hyperspectral Image Restoration</a></b> · <em>IEEE TIP, under review</em><br>
-<em><b>Cheng Dai</b><sup>&#42;</sup>, Jiale Lin<sup>&#42;</sup>, Bingxuan Song, Yifei Chen, Jiashuo Chen, Xin Yuan, and Fanglin Bao</em><br>
+<b><a href="https://arxiv.org/abs/2605.13664">HAIR: HADAR-Based Thermal Infrared Hyperspectral Image Restoration</a></b> · <em>IEEE TIP</em><br>
+<em><img src="https://img.shields.io/badge/Cheng%20Dai-7CB342?style=flat-square" alt="Cheng Dai" height="20" align="absmiddle"><sup>&#42;</sup>, Jiale Lin<sup>&#42;</sup>, Bingxuan Song, Yifei Chen, Jiashuo Chen, Xin Yuan, and Fanglin Bao</em><br>
 A physics-driven restoration framework for ground-based thermal-infrared hyperspectral images. It combines HADAR rendering with spectral calibration and TeX decompose-synthesize restoration, based on the radiative transfer equation.<br>
 <a href="https://arxiv.org/abs/2605.13664">Paper</a> · <a href="https://github.com/jialelin2007/HAIR">Homepage</a>
 </td>
@@ -28,8 +28,8 @@ A physics-driven restoration framework for ground-based thermal-infrared hypersp
 <table width="100%">
 <tr>
 <td>
-<b><a href="https://arxiv.org/abs/2606.03806">TeX-1500: A Paired Real-World LWIR Hyperspectral Dataset and Benchmark for Temperature-Emissivity-Texture Decomposition</a></b> · <em>arXiv preprint; will submit to Nature by 2027</em><br>
-<em><b>Cheng Dai</b><sup>&#42;</sup>, Jiale Lin<sup>&#42;</sup>, Hongyi Xu, Bingxuan Song, Ziyang Xie, Fanglin Bao</em><br>
+<b><a href="https://arxiv.org/abs/2606.03806">TeX-1500: A Paired Real-World LWIR Hyperspectral Dataset and Benchmark for Temperature-Emissivity-Texture Decomposition</a></b><br>
+<em><img src="https://img.shields.io/badge/Cheng%20Dai-7CB342?style=flat-square" alt="Cheng Dai" height="20" align="absmiddle"><sup>&#42;</sup>, Jiale Lin<sup>&#42;</sup>, Hongyi Xu, Bingxuan Song, Ziyang Xie, Fanglin Bao</em><br>
 A paired real-world long-wave infrared hyperspectral dataset and benchmark for supervised temperature-emissivity-texture decomposition, together with TeX-UNet as a wavelength-aware baseline.<br>
 <a href="https://arxiv.org/abs/2606.03806">Paper</a> · <a href="https://github.com/dccc2025/TeX-1500">Homepage</a> · <a href="https://huggingface.co/dccc2025/TeX-UNet">Pretrained Models</a> · <a href="https://huggingface.co/datasets/jialelin2007/TeX-1500">Dataset</a>
 </td>
@@ -38,8 +38,8 @@ A paired real-world long-wave infrared hyperspectral dataset and benchmark for s
 <table width="100%">
 <tr>
 <td>
-<b><a href="https://arxiv.org/abs/2608.02192">T²exture: Sparse Active Thermal Texture Imaging</a></b> · <em>AAAI, under review</em><br>
-<em>Jiashuo Chen<sup>&#42;</sup>, <b>Cheng Dai</b><sup>&#42;</sup> (co-first author and listed alphabetically), Yanan Hu and Fanglin Bao</em><br>
+<b><a href="https://arxiv.org/abs/2608.02192">T²exture: Sparse Active Thermal Texture Imaging</a></b> · <em>AAAI</em><br>
+<em>Jiashuo Chen<sup>&#42;</sup>, <img src="https://img.shields.io/badge/Cheng%20Dai-7CB342?style=flat-square" alt="Cheng Dai" height="20" align="absmiddle"><sup>&#42;</sup> (co-first author and listed alphabetically), Yanan Hu and Fanglin Bao</em><br>
 A sparse-active thermal texture imaging framework that reconstructs temporally dense thermal-texture sequences from passive LWIR frames and a few actively perturbed keyframes, using pretrained visible representations.<br>
 <a href="https://arxiv.org/abs/2608.02192">Paper</a> · <a href="https://github.com/dccc2025/T2exture">Code</a> · <a href="https://huggingface.co/datasets/chenjiashuo/T2exture_datasets">Dataset</a> · <a href="https://huggingface.co/chenjiashuo/T2exture_model">Model Weights</a>
 </td>
@@ -48,8 +48,8 @@ A sparse-active thermal texture imaging framework that reconstructs temporally d
 <table width="100%">
 <tr>
 <td>
-<b><a href="https://arxiv.org/html/2611.06910">FrontierPhysics: Evaluate Agents for End-to-End Frontier Physics Research</a></b> · <em>Technical Report; will submit to Nature by December 2026</em><br>
-<em>Bingran You, ..., <b>Cheng Dai</b>, ..., Gerbrand Ceder, Hartmut Haeffner (108 authors)</em><br>
+<b><a href="https://arxiv.org/html/2611.06910">FrontierPhysics: Evaluate Agents for End-to-End Frontier Physics Research</a></b> · <em>Technical Report</em><br>
+<em>Bingran You, ..., <img src="https://img.shields.io/badge/Cheng%20Dai-7CB342?style=flat-square" alt="Cheng Dai" height="20" align="absmiddle">, ..., Gerbrand Ceder, Hartmut Haeffner (108 authors)</em><br>
 FrontierPhysics evaluates whether AI agents can carry out end-to-end physics research across 56 tasks in theoretical, computational, and experimental physics. Each agent receives a principal-investigator-style prompt and must produce a manuscript with structured outputs, graded by deterministic verifiers and expert rubrics.<br>
 <a href="https://arxiv.org/html/2611.06910">Paper</a> · <a href="https://huggingface.co/papers/2611.06910">Hugging Face</a> · <a href="https://openreview.net/forum?id=Q4Iyl2xyt4">OpenReview</a> · <a href="https://artificialanalysis.ai/">Artificial Analysis</a> · <a href="https://x.com/ArtificialAnlys/status/2125691597602058284">AA Post</a> · <a href="https://x.com/i/trending/2118486932200296639">X trending</a>
 </td>
@@ -58,8 +58,8 @@ FrontierPhysics evaluates whether AI agents can carry out end-to-end physics res
 <table width="100%">
 <tr>
 <td>
-<b><a href="https://arxiv.org/abs/2611.32185">OVOK: A Recursive Self-Improving Agentic Framework for Video-Based Articulated Robot State Estimation</a></b> · <em>CVPR 2027, under review</em><br>
-<em><b>Cheng Dai</b><sup>&#42;†</sup>, Renkai Luo<sup>&#42;</sup>, Guanfeng Tang, Siming Li, Hao Zhao</em><br>
+<b><a href="https://arxiv.org/abs/2611.32185">OVOK: A Recursive Self-Improving Agentic Framework for Video-Based Articulated Robot State Estimation</a></b> · <em>CVPR 2027</em><br>
+<em><img src="https://img.shields.io/badge/Cheng%20Dai-7CB342?style=flat-square" alt="Cheng Dai" height="20" align="absmiddle"><sup>&#42;†</sup>, Renkai Luo<sup>&#42;</sup>, Guanfeng Tang, Siming Li, Hao Zhao</em><br>
 OVOK (One Video to Kinetics) is a recursive, self-improving agentic framework for video-based articulated robot state estimation. It recovers articulated robot state from video through recursive self-improvement.<br>
 <a href="https://arxiv.org/abs/2611.32185">Paper</a>
 </td>
@@ -68,18 +68,20 @@ OVOK (One Video to Kinetics) is a recursive, self-improving agentic framework fo
 <table width="100%">
 <tr>
 <td>
-<b>GaIR-Agent: Gaussian Inverse Rendering via Closed-Loop Reasoning and Physical Refinement</b> · <em>CVPR 2027, under review</em><br>
-<em>Siming Li<sup>&#42;</sup>, Renkai Luo<sup>&#42;</sup>, <b>Cheng Dai</b>, Guanfeng Tang, Hao Zhao</em><br>
-GaIR-Agent is the first agentic framework for Gaussian inverse rendering, coupling visual reasoning with physically based optimization. It reaches state-of-the-art relighting on FIPT-Synthetic and NeuSky Synthetic, outperforming external baselines in PSNR, LPIPS, and MAE, and cuts material-target generation time by 85.6% indoors and 90.2% outdoors versus the non-agentic pipeline.
+<b><a href="https://dccc2025.github.io/files/will_be_released_on_arxiv_few_days_later/">GaIR-Agent: Gaussian Inverse Rendering via Closed-Loop Reasoning and Physical Refinement</a></b> · <em>CVPR 2027</em><br>
+<em>Siming Li<sup>&#42;</sup>, Renkai Luo<sup>&#42;</sup>, <img src="https://img.shields.io/badge/Cheng%20Dai-7CB342?style=flat-square" alt="Cheng Dai" height="20" align="absmiddle">, Guanfeng Tang, Hao Zhao</em><br>
+GaIR-Agent is the first agentic framework for Gaussian inverse rendering, coupling visual reasoning with physically based optimization. It reaches state-of-the-art relighting on FIPT-Synthetic and NeuSky Synthetic, outperforming external baselines in PSNR, LPIPS, and MAE, and cuts material-target generation time by 85.6% indoors and 90.2% outdoors versus the non-agentic pipeline.<br>
+<a href="https://dccc2025.github.io/files/will_be_released_on_arxiv_few_days_later/">Paper</a>
 </td>
 </tr>
 </table>
 <table width="100%">
 <tr>
 <td>
-<b>IGGLoop: Instance-Grounded Gaussian Looped Transformer for Feed-Forward 4D Driving Scene Reconstruction</b> · <em>CVPR 2027, under review</em><br>
-<em>Guanfeng Tang<sup>&#42;</sup>, Renkai Luo<sup>&#42;</sup>, <b>Cheng Dai</b>, Siming Li, Hao Zhao</em><br>
-IGGLoop unifies instance segmentation, tracking, Gaussian reconstruction, and motion estimation for feed-forward 4D driving scenes. It is competitive on Waymo, nuScenes, and Argoverse 2, with a 2.57% PSNR gain on Waymo over the state-of-the-art pose-free baseline, 6.4% of that baseline's parameters, and a 3.45× speedup; recovered assets support independent insertion, removal, and repositioning.
+<b><a href="https://dccc2025.github.io/files/will_be_released_on_arxiv_few_days_later/">IGGLoop: Instance-Grounded Gaussian Looped Transformer for Feed-Forward 4D Driving Scene Reconstruction</a></b> · <em>CVPR 2027</em><br>
+<em>Guanfeng Tang<sup>&#42;</sup>, Renkai Luo<sup>&#42;</sup>, <img src="https://img.shields.io/badge/Cheng%20Dai-7CB342?style=flat-square" alt="Cheng Dai" height="20" align="absmiddle">, Siming Li, Hao Zhao</em><br>
+IGGLoop unifies instance segmentation, tracking, Gaussian reconstruction, and motion estimation for feed-forward 4D driving scenes. It is competitive on Waymo, nuScenes, and Argoverse 2, with a 2.57% PSNR gain on Waymo over the state-of-the-art pose-free baseline, 6.4% of that baseline's parameters, and a 3.45× speedup; recovered assets support independent insertion, removal, and repositioning.<br>
+<a href="https://dccc2025.github.io/files/will_be_released_on_arxiv_few_days_later/">Paper</a>
 </td>
 </tr>
 </table>
